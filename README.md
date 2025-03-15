@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [paudelbipin.com.np](paudelbipin.com.np)
 
-- 💬 Ask me about **Photoshop ,C programming , c++ & Python**
+- 💬 Ask me about **Photoshop ,C programming , c++ , Python & Javascript**
+- 
 
 - 📫 How to reach me **paudelbipin19@gmail.com**
 
