@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipin Paudel</h1>
-<h3 align="center">A passionate Python Developer and Graphics Designer from Nepal</h3>
+<h3 align="center">A passionate Python Developer from Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=">
 
