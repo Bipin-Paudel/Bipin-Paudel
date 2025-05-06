@@ -56,11 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bipin-paudel&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-paudel&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=bipin-paudel&theme=default" alt="GitHub Streak" />
 </p>
 
