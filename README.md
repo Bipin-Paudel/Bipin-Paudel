@@ -52,16 +52,20 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bipin-paudel&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-paudel&layout=compact&theme=default" alt="Top Languages" />
+<p align="center">
+  <!-- GitHub Stats on the Left -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bipin-paudel&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" width="45%" height="200" />
+  
+  <!-- Top Languages on the Right -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-paudel&layout=compact&theme=default&hide_title=true" alt="Top Languages" width="45%" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bipin-paudel&theme=default" alt="GitHub Streak" />
+  <!-- GitHub Streak centered below -->
+  <img src="https://streak-stats.demolab.com?user=bipin-paudel&theme=default" alt="GitHub Streak" width="70%" />
 </p>
+
+
 ---
 
 ### 🤝 Connect with Me
