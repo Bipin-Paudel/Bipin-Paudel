@@ -52,7 +52,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bipin-paudel&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-paudel&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://streak-stats.demolab.com?user=bipin-paudel&theme=default" alt="GitHub Streak" />
 </p>
 
