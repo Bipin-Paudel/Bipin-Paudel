@@ -54,19 +54,21 @@
 
 <p align="center">
   <!-- GitHub Stats on the Left -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bipin-paudel&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" width="45%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Paudel&show_icons=true&theme=transparent" alt="GitHub Stats" width="45%" height="200px" />
   
   <!-- Top Languages on the Right -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-paudel&layout=compact&theme=default&hide_title=true" alt="Top Languages" width="45%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Paudel&layout=compact&show_icons=true&theme=transparent" alt="Top Languages" width="45%" height="200px" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak centered below -->
-  <img src="https://streak-stats.demolab.com?user=bipin-paudel&theme=default" alt="GitHub Streak" width="70%" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Paudel&theme=transparent" alt="GitHub Streak" width="70%" />
 </p>
-
-
 ---
+
+
+
+
 
 ### 🤝 Connect with Me
 
@@ -80,4 +82,4 @@
 
 ### 🧠 Quote I Live By
 
-> "I don't just write code — I create value through technology."
+> "I don't just write code — I create value through technology."  
